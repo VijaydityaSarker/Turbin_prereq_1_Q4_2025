@@ -1,0 +1,3 @@
+# TS Client Logic
+
+TypeScript is stricter than plain JavaScript, which helps catch mistakes early (like wrong account layouts or missing args) before running on-chain. Most Solana SDKs such as `@solana/web3.js` and `@solana/kit` are written in TypeScript and work seamlessly with its type system. This makes it easier to build dApps safely, reduces runtime errors, and provides better developer experience. In short, TS lets Solana developers move fast while avoiding common bugs.
